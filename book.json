@@ -1,0 +1,7 @@
+{
+    "author": "xnzone",
+    "plugins": [
+        "-sharing",
+        "hide-published-with"
+    ]
+}
