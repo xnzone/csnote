@@ -1,7 +1,12 @@
 {
     "author": "xnzone",
+    "title": "csnote",
+    "description": "csnote",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
     "plugins": [
         "-sharing",
-        "hide-published-with"
+        "hide-published-with",
+        "toggle-chapters"
     ]
 }
