@@ -8,5 +8,5 @@
     * [04.二维数组中的查找](算法/剑指Offer题解/04.二维数组中的查找.md)
     * [05.替换空格](算法/剑指Offer题解/05.替换空格.md)
   * [LeetCode题解](算法/LeetCode题解/README.md)
-    * [数组](算法/LeetCode题解/01.数组.md)
+    * [数组和矩阵](算法/LeetCode题解/01.数组.md)
 
