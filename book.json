@@ -8,6 +8,7 @@
         "-sharing",
         "hide-published-with",
         "toggle-chapters",
-        "expandable-chapters-small"
+        "expandable-chapters-small",
+        "drainage@git+https://github.com/xnzone/gitbook-plugin-drainage.git#0.0.1"
     ]
 }
