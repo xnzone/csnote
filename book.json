@@ -10,5 +10,11 @@
         "toggle-chapters",
         "expandable-chapters-small",
         "drainage@git+https://github.com/xnzone/gitbook-plugin-drainage.git#0.0.1"
-    ]
+    ],
+    "pluginsConfig": {
+        "drainage": {
+            "height": "274",
+            "width": "360"
+        }
+    }
 }
