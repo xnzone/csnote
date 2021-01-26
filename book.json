@@ -6,11 +6,13 @@
     "gitbook": "3.2.3",
     "plugins": [
         "-sharing",
+        "-highlight",
         "hide-published-with",
         "toggle-chapters",
         "expandable-chapters-small",
         "drainage@git+https://github.com/xnzone/gitbook-plugin-drainage.git#0.0.1",
-        "favicon"
+        "favicon",
+        "prism"
     ],
     "pluginsConfig": {
         "drainage": {
@@ -25,6 +27,11 @@
                 "120x120": "https://gitee.com/ixnzone/img-bed/raw/master/favicon.png",
                 "180x180": "https://gitee.com/ixnzone/img-bed/raw/master/favicon.png"
             }
+        },
+        "prism": {
+            "css": [
+              "prismjs/themes/prism-okaidia.css"
+            ]
         }
     }
 }
