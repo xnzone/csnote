@@ -9,12 +9,22 @@
         "hide-published-with",
         "toggle-chapters",
         "expandable-chapters-small",
-        "drainage@git+https://github.com/xnzone/gitbook-plugin-drainage.git#0.0.1"
+        "drainage@git+https://github.com/xnzone/gitbook-plugin-drainage.git#0.0.1",
+        "favicon"
     ],
     "pluginsConfig": {
         "drainage": {
             "height": "274",
             "width": "360"
+        },
+        "favicon": {
+            "shortcut": "https://gitee.com/ixnzone/img-bed/raw/master/favicon.ico",
+            "bookmark": "https://gitee.com/ixnzone/img-bed/raw/master/favicon.ico",
+            "appleTouch": "https://gitee.com/ixnzone/img-bed/raw/master/favicon.ico",
+            "appleTouchMore": {
+                "120x120": "https://gitee.com/ixnzone/img-bed/raw/master/favicon.ico",
+                "180x180": "https://gitee.com/ixnzone/img-bed/raw/master/favicon.ico"
+            }
         }
     }
 }
