@@ -12,7 +12,10 @@
         "expandable-chapters-small",
         "drainage@git+https://github.com/xnzone/gitbook-plugin-drainage.git#0.0.1",
         "favicon",
-        "prism"
+        "prism",
+        "pageview-count",
+        "auto-scroll-table",
+        "lightbox"
     ],
     "pluginsConfig": {
         "drainage": {
