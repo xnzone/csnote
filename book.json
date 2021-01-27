@@ -14,7 +14,7 @@
         "expandable-chapters-small",
         "drainage@git+https://github.com/xnzone/gitbook-plugin-drainage.git#0.0.1",
         "prism",
-        "pageview-count",
+        "busuanzi@git+https://github.com/xnzone/gitbook-plugin-busuanzi.git#0.0.1",
         "auto-scroll-table",
         "lightbox",
         "uri-favicon@git+https://github.com/xnzone/gitbook-plugin-uri-favicon.git#0.0.1",
