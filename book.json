@@ -33,9 +33,6 @@
         "tbfed-pagefooter": {
             "copyright": "Copyright © xnzone 2021",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
-        },
-        "uri-favicon" : {
-            "favicon": "https://gitee.com/ixnzone/img-bed/raw/master/favicon.ico"
         }
     }
 }
