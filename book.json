@@ -5,8 +5,10 @@
     "language": "zh-hans",
     "gitbook": "3.2.3",
     "plugins": [
-        "-sharing",
         "-highlight",
+        "-search",
+        "-lunr",
+        "search-pro",
         "hide-published-with",
         "toggle-chapters",
         "expandable-chapters-small",
@@ -15,7 +17,8 @@
         "pageview-count",
         "auto-scroll-table",
         "lightbox",
-        "uri-favicon@git+https://github.com/xnzone/gitbook-plugin-uri-favicon.git#0.0.1"
+        "uri-favicon@git+https://github.com/xnzone/gitbook-plugin-uri-favicon.git#0.0.1",
+        "tbfed-pagefooter"
     ],
     "pluginsConfig": {
         "drainage": {
@@ -26,6 +29,10 @@
             "css": [
               "prismjs/themes/prism-okaidia.css"
             ]
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © xnzone 2021",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
     }
 }
