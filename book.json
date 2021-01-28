@@ -18,7 +18,10 @@
         "auto-scroll-table",
         "lightbox",
         "uri-favicon@git+https://github.com/xnzone/gitbook-plugin-uri-favicon.git#0.0.1",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+        "back-to-top-button",
+        "splitter",
+        "edit-link"
     ],
     "pluginsConfig": {
         "drainage": {
@@ -33,6 +36,10 @@
         "tbfed-pagefooter": {
             "copyright": "Copyright © xnzone 2021",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
-        }
+        },
+        "edit-link": {
+            "base": "//github.com/xnzone/csnote/edit/master",
+            "label": "编辑"
+       }
     }
 }
