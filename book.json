@@ -4,6 +4,9 @@
     "description": "csnote",
     "language": "zh-hans",
     "gitbook": "3.2.3",
+    "styles":{
+        "website":"./asset/website.css"
+    },
     "plugins": [
         "-highlight",
         "-search",
