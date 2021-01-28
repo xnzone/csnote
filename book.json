@@ -11,6 +11,7 @@
         "-highlight",
         "-search",
         "-lunr",
+        "-sharing",
         "search-pro",
         "hide-published-with",
         "toggle-chapters",
