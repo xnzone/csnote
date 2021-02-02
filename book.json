@@ -26,7 +26,7 @@
         "back-to-top-button",
         "splitter",
         "edit-link",
-        "mathjax"
+        "mathjax@2"
     ],
     "pluginsConfig": {
         "drainage": {
