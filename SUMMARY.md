@@ -1,6 +1,6 @@
 # Summary
 
-* [介绍](README.md)
+* [主页](README.md)
 
 * [算法](算法/README.md)
   * [剑指Offer](算法/剑指Offer题解/README.md)
