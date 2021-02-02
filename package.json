@@ -5,11 +5,8 @@
         "node": "10.x"
     },
     "scripts": {
-        "build": "npm install && npm install gitbook-cli -g && gitbook install && gitbook build && mv _book public"
+        "build": "npm install gitbook-cli -g && gitbook install && gitbook build && mv _book public"
     },
     "author": "xnzone",
-    "license": "ISC",
-    "dependencies": {
-        "mathjax": "^2.7.6"
-    }
+    "license": "ISC"
 }
