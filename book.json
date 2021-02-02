@@ -25,7 +25,8 @@
         "tbfed-pagefooter",
         "back-to-top-button",
         "splitter",
-        "edit-link"
+        "edit-link",
+        "mathjax"
     ],
     "pluginsConfig": {
         "drainage": {
