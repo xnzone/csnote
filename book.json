@@ -19,7 +19,7 @@
         "drainage@git+https://github.com/xnzone/gitbook-plugin-drainage.git#0.0.1",
         "prism",
         "busuanzi@git+https://github.com/xnzone/gitbook-plugin-busuanzi.git#0.0.1",
-        "auto-scroll-table",
+        "auto-scroll-table@git+https://github.com/xnzone/gitbook-plugin-auto-scroll-table.git#0.0.1",
         "lightbox",
         "uri-favicon@git+https://github.com/xnzone/gitbook-plugin-uri-favicon.git#0.0.1",
         "tbfed-pagefooter",
