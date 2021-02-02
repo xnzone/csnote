@@ -1,12 +1,15 @@
-  {
+{
     "name": "xnzone",
     "version": "1.0.0",
     "engines": {
         "node": "10.x"
     },
     "scripts": {
-        "build": "npm update -g npm && npm install gitbook-cli -g && gitbook install && gitbook build && mv _book public"
+        "build": "npm install && npm install gitbook-cli -g && gitbook install && gitbook build && mv _book public"
     },
     "author": "xnzone",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "mathjax": "^2.7.6"
+    }
 }
