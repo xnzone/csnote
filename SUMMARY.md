@@ -12,6 +12,9 @@
   * [LeetCode题解](算法/LeetCode题解/README.md)
     * [数组和矩阵](算法/LeetCode题解/01.数组.md)
     * [链表](算法/LeetCode题解/02.链表.md)
+    * [树](算法/LeetCode题解/04.树.md)
+    * [二分查找](算法/LeetCode题解/06.二分查找.md)
+    * [排序算法](算法/LeetCode题解/15.排序算法.md)
 
 * [云平台](云平台/README.md)
   * [Docker](云平台/Docker/README.md)
