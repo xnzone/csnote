@@ -26,7 +26,8 @@
         "back-to-top-button",
         "splitter",
         "edit-link",
-        "katex"
+        "katex",
+        "prism-themes"
     ],
     "pluginsConfig": {
         "drainage": {
