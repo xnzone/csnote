@@ -18,7 +18,7 @@
     * [排序算法](算法/LeetCode题解/15.排序算法.md)
 
 * [编程语言](编程语言/README.md)
-  * [Go](编程语言/README.md#language_golang)
+  * [Go](编程语言/golang/README.md)
     * [Go基础](编程语言/golang/01.Go基础.md)
 
 * [云平台](云平台/README.md)
