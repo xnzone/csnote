@@ -1,4 +1,7 @@
-# csnote
+<div align="center">
+    <a href="https://github.com/xnzone/csnote"> <img src="https://badgen.net/github/stars/xnzone/csnote?icon=github"></a>
+    <a href="https://github.com/xnzone/csnote"> <img src="https://badgen.net/github/forks/xnzone/csnote?icon=github"></a>
+</div>
 
 ## 算法
 - [剑指Offer题解](算法/剑指Offer题解/README.md)
