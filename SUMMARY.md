@@ -9,7 +9,7 @@
     * [树](算法/剑指Offer题解/03.树.md)
     * [栈队列堆](算法/剑指Offer题解/04.栈队列堆.md)
     * [动态规划](算法/剑指Offer题解/05.动态规划.md)
-    * [二分查找](算法/LeetCode题解/06.二分查找.md)
+    * [二分查找](算法/剑指Offer题解/06.二分查找.md)
   * [LeetCode题解](算法/LeetCode题解/README.md)
     * [数组和矩阵](算法/LeetCode题解/01.数组.md)
     * [链表](算法/LeetCode题解/02.链表.md)
