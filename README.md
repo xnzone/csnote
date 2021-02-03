@@ -12,12 +12,8 @@
 - [操作系统基础]()
 - [Linux操作系统]()
 
-## Go
-- [Go基础]()
-- [Go I/O]()
-- [Go协程]()
-- [Go Web]()
-- [Go RPC]()
+## 编程语言
+- [Go](编程语言/README.md#language_golang)
 
 ## 数据库以及中间件
 - [SQL语法]()
