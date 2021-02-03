@@ -4,9 +4,6 @@
     "description": "csnote",
     "language": "zh-hans",
     "gitbook": "3.2.3",
-    "styles":{
-        "website":"./asset/website.css"
-    },
     "plugins": [
         "-highlight",
         "-search",
@@ -27,7 +24,8 @@
         "splitter",
         "edit-link",
         "katex",
-        "prism-themes"
+        "prism-themes",
+        "theme-vue@git+https://github.com/xnzone/gitbook-plugin-theme-vue.git#0.0.1"
     ],
     "pluginsConfig": {
         "drainage": {
@@ -46,6 +44,6 @@
         "edit-link": {
             "base": "//github.com/xnzone/csnote/edit/master",
             "label": "编辑"
-       }
+        }
     }
 }
