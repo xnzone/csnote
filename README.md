@@ -13,7 +13,7 @@
 - [Linux操作系统]()
 
 ## 编程语言
-- [Go](编程语言/README.md#language_golang)
+- [Go](编程语言/golang/README.md)
 
 ## 数据库以及中间件
 - [SQL语法]()
