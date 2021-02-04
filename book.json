@@ -17,7 +17,7 @@
         "prism",
         "busuanzi@git+https://github.com/xnzone/gitbook-plugin-busuanzi.git#0.0.1",
         "auto-scroll-table@git+https://github.com/xnzone/gitbook-plugin-auto-scroll-table.git#0.0.1",
-        "lightbox",
+        "lightbox@git+https://github.com/xnzone/gitbook-plugin-lightbox.git#0.0.1",
         "uri-favicon@git+https://github.com/xnzone/gitbook-plugin-uri-favicon.git#0.0.1",
         "tbfed-pagefooter",
         "back-to-top-button",

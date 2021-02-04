@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://github.com/xnzone/csnote"> <img src="https://badgen.net/github/stars/xnzone/csnote?icon=github"></a>
-    <a href="https://github.com/xnzone/csnote"> <img src="https://badgen.net/github/forks/xnzone/csnote?icon=github"></a>
+    <a href="https://github.com/xnzone/csnote"> <img src="https://badgen.net/github/stars/xnzone/csnote?icon=github" title="no-lightbox"></a>
+    <a href="https://github.com/xnzone/csnote"> <img src="https://badgen.net/github/forks/xnzone/csnote?icon=github" title="no-lightbox"></a>
 </div>
 
 ## 算法
