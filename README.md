@@ -17,6 +17,7 @@
 
 ## 编程语言
 - [Go](编程语言/golang/README.md)
+- [python](编程语言/python/README.md)
 
 ## 数据库以及中间件
 - [SQL语法]()

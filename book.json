@@ -25,7 +25,8 @@
         "edit-link",
         "katex",
         "prism-themes",
-        "theme-vue@git+https://github.com/xnzone/gitbook-plugin-theme-vue.git#0.0.1"
+        "theme-vue@git+https://github.com/xnzone/gitbook-plugin-theme-vue.git#0.0.1",
+        "valine"
     ],
     "pluginsConfig": {
         "drainage": {
@@ -44,6 +45,10 @@
         "edit-link": {
             "base": "//github.com/xnzone/csnote/edit/master",
             "label": "编辑"
+        },
+        "valine": {
+            "appId": "CxEspSv5Qi04WQvJ6VtQEbao-gzGzoHsz",
+            "appKey": "1t0g3FX6K94RxyS7qL4saF30"
         }
     }
 }
