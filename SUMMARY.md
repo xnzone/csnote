@@ -23,6 +23,9 @@
 * [编程语言](编程语言/README.md)
   * [Go](编程语言/golang/README.md)
     * [Go基础](编程语言/golang/01.Go基础.md)
+  * [python](编程语言/python/README.md)
+    * [python基础](编程语言/python/01.python基础.md)
+    * [*python数据结构](编程语言/python/02.python数据结构.md)
 
 * [云平台](云平台/README.md)
   * [Docker](云平台/Docker/README.md)
