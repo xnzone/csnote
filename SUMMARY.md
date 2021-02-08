@@ -26,6 +26,7 @@
   * [python](编程语言/python/README.md)
     * [python基础](编程语言/python/01.python基础.md)
     * [python数据结构](编程语言/python/02.python数据结构.md)
+    * [python并发](编程语言/python/03.python并发.md)
 
 * [云平台](云平台/README.md)
   * [Docker](云平台/Docker/README.md)
