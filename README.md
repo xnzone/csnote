@@ -16,6 +16,7 @@
 - [Linux操作系统]()
 
 ## 编程语言
+- [C++](编程语言/cpp/README.md)
 - [Go](编程语言/golang/README.md)
 - [python](编程语言/python/README.md)
 
