@@ -11,7 +11,7 @@
         "-sharing",
         "search-pro",
         "hide-published-with",
-        "toggle-chapters",
+        "chapter-fold",
         "expandable-chapters-small",
         "drainage@git+https://github.com/xnzone/gitbook-plugin-drainage.git#0.0.1",
         "prism",

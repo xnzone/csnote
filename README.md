@@ -6,21 +6,21 @@
 >用C++做题，用golang工作，用python娱乐
 
 ## 算法
-- [剑指Offer题解](算法/剑指Offer题解/README.md)
-- [LeetCode题解](算法/LeetCode题解/README.md)
+- [剑指Offer题解](算法/README.md#offer)
+- [LeetCode题解](算法/README.md#leetcode)
 - [基础]()
 
 ## 计算机基础
 - [网络基础]()
 - [TCP/IP]()
 - [Socket]()
-- [操作系统基础]()
+- [操作系统基础](计算机基础/README.md#os)
 - [Linux操作系统]()
 
 ## 编程语言
-- [C++](编程语言/cpp/README.md)
-- [Go](编程语言/golang/README.md)
-- [python](编程语言/python/README.md)
+- [C++](编程语言/README.md#cpp)
+- [Go](编程语言/README.md#golang)
+- [python](编程语言/README.md#python)
 
 ## 数据库以及中间件
 - [SQL语法]()
