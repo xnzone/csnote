@@ -22,11 +22,8 @@
 - [Go](编程语言/README.md#golang)
 - [python](编程语言/README.md#python)
 
-## 数据库以及中间件
-- [SQL语法]()
-- [SQL练习]()
-- [数据库原理]()
-- [MySQL]()
+## 数据库及中间件
+- [MySQL](数据库及中间件/README.md#mysql)
 - [Mongo]()
 - [Redis]()
 - [RabbitMQ]()

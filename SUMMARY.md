@@ -41,6 +41,10 @@
     * [python数据结构](编程语言/python/02.python数据结构.md)
     * [python并发](编程语言/python/03.python并发.md)
 
+* [数据库及中间件](数据库及中间件/README.md)
+  * [MySQL](数据库及中间件/README.md#mysql)
+    * [SQL语法](数据库及中间件/mysql/01.SQL语法.md)
+
 * [云平台](云平台/README.md)
   * [Docker](云平台/README.md#docker)
     * [Docker命令](云平台/Docker/01.Docker命令.md)
