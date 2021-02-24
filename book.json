@@ -28,8 +28,7 @@
         "theme-vue@git+https://github.com/xnzone/gitbook-plugin-theme-vue.git#0.0.1",
         "valine",
         "push-bd",
-        "siteverification",
-        "sitemap-general"
+        "sitemap"
     ],
     "pluginsConfig": {
         "drainage": {
@@ -53,12 +52,8 @@
             "appId": "CxEspSv5Qi04WQvJ6VtQEbao-gzGzoHsz",
             "appKey": "1t0g3FX6K94RxyS7qL4saF30"
         },
-        "siteVerification": {
-            "baidu": "code-HOCgrukwHl",
-            "google": "rOkdwqRRumtN4B-wfhQFuDjQ4PlOjPSly1DBoK-x29w"
-        },
-        "sitemap-general": {
-            "prefix": "https://csnote.xnzone.tk/"
+        "sitemap": {
+            "hostname": "https://csnote.xnzone.tk"
         }
     }
 }
