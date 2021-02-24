@@ -52,6 +52,9 @@
         "valine": {
             "appId": "CxEspSv5Qi04WQvJ6VtQEbao-gzGzoHsz",
             "appKey": "1t0g3FX6K94RxyS7qL4saF30"
+        },
+        "sitemap-general": {
+            "prefix": "http://csnote.xnzone.tk/"
         }
     }
 }
