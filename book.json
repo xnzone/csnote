@@ -53,6 +53,10 @@
             "appId": "CxEspSv5Qi04WQvJ6VtQEbao-gzGzoHsz",
             "appKey": "1t0g3FX6K94RxyS7qL4saF30"
         },
+        "siteVerification": {
+            "baidu": "http://csnote.xnzone.tk",
+            "google": "LAZNUi8rLg-p3lG1yNwF_6IQUTp9MXMwB8kq4J_IdxI"
+        },
         "sitemap-general": {
             "prefix": "http://csnote.xnzone.tk/"
         }
