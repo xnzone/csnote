@@ -6,9 +6,9 @@
 >用C++做题，用golang工作，用python娱乐
 
 ## 算法
+- [算法基础](算法/README.md#base)
 - [剑指Offer题解](算法/README.md#offer)
 - [LeetCode题解](算法/README.md#leetcode)
-- [基础]()
 
 ## 计算机基础
 - [网络基础]()
