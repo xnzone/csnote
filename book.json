@@ -11,7 +11,6 @@
         "-sharing",
         "search-pro",
         "hide-published-with",
-        "chapter-fold",
         "expandable-chapters-small",
         "drainage@git+https://github.com/xnzone/gitbook-plugin-drainage.git#0.0.1",
         "prism",
@@ -22,13 +21,10 @@
         "tbfed-pagefooter",
         "back-to-top-button",
         "splitter",
-        "edit-link",
         "katex",
         "prism-themes",
         "theme-vue@git+https://github.com/xnzone/gitbook-plugin-theme-vue.git#0.0.1",
-        "valine",
-        "push-bd",
-        "sitemap"
+        "valine"
     ],
     "pluginsConfig": {
         "drainage": {
@@ -44,16 +40,9 @@
             "copyright": "Copyright © xnzone 2021",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
-        "edit-link": {
-            "base": "//github.com/xnzone/csnote/edit/master",
-            "label": "编辑"
-        },
         "valine": {
             "appId": "CxEspSv5Qi04WQvJ6VtQEbao-gzGzoHsz",
             "appKey": "1t0g3FX6K94RxyS7qL4saF30"
-        },
-        "sitemap": {
-            "hostname": "https://csnote.xnzone.tk"
         }
     }
 }
