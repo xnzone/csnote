@@ -5,7 +5,7 @@
         "node": "12.x"
     },
     "scripts": {
-        "build": "npm install -g npm && npm install gitbook-cli -g && gitbook install && gitbook build && mv _book public"
+        "build": "yarn install gitbook-cli -g && gitbook install && gitbook build && mv _book public"
     },
     "author": "xnzone",
     "license": "ISC"
